@@ -6,7 +6,7 @@
 
 ## 📂 GitHub Repository
 
-🔗 [View on GitHub](https://www.github/something)
+🔗 [View on GitHub](https://github.com/BeLievEr031/credex-sell-soft)
 
 ## 🔧 Tech Stack
 
@@ -26,7 +26,7 @@ To work locally, ensure you have Node.js and npm installed. You can install Node
 
 ```bash
 # 1. Clone the repository
-git clone https://www.github/something
+git clone https://github.com/BeLievEr031/credex-sell-soft
 
 # 2. Navigate to the project directory
 cd <YOUR_PROJECT_NAME>
