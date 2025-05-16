@@ -16,7 +16,6 @@ This project is built with:
 - TypeScript
 - React
 - Tailwind CSS
-- shadcn-ui
 
 ## 💻 Getting Started
 
@@ -26,10 +25,10 @@ To work locally, ensure you have Node.js and npm installed. You can install Node
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/BeLievEr031/credex-sell-soft
+git clone https://github.com/BeLievEr031/credex-sell-soft credex
 
 # 2. Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
+cd credex
 
 # 3. Install dependencies
 npm install
